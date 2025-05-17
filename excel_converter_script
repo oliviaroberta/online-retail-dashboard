@@ -1,0 +1,9 @@
+import pandas as pd
+
+# Load the Excel file (choose sheet if necessary)
+df = pd.read_excel("online_retail_II.xlsx", sheet_name='Year 2009-2010')  # or 'Year 2010-2011'
+
+# Save as CSV
+df.to_csv("online_retail.csv", index=False)
+
+print("✅ Excel file converted to 'online_retail.csv'")

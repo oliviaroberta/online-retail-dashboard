@@ -1,0 +1,7 @@
+streamlit
+pandas
+pyathena
+boto3
+sqlalchemy
+plotly.express
+python-dotenv
