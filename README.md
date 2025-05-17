@@ -22,3 +22,6 @@ An interactive data analytics dashboard built using **Streamlit**, powered by **
 git clone https://github.com/oliviaroberta/online-retail-dashboard.git
 cd online-retail-dashboard
 
+🔗 [Live Demo](https://online-retail-dashboard-dspizdjmrhpa9fgmabclnu.streamlit.app/)
+
+
