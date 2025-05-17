@@ -1,27 +1,27 @@
 # 📊 Online Retail Analytics Dashboard
 
-An interactive data analytics dashboard built using **Streamlit**, powered by **AWS Athena**, to analyze online retail sales data.
+An interactive analytics dashboard built with **Streamlit** and powered by **AWS Athena**, designed to explore and visualize online retail sales data.
+
+---
 
 ## 🚀 Features
 
 - **Total Sales by Country** – Visualizes top-performing countries based on total sales.
-- **Top Products** – Displays the most sold products by quantity.
-- **Monthly Sales Trends** – Shows sales performance over time using monthly aggregation.
+- **Top Products** – Highlights the most sold products by quantity.
+- **Monthly Sales Trends** – Displays monthly sales performance using time-based aggregation.
+
+---
 
 ## 🧰 Tech Stack
 
-- **Frontend**: Streamlit + Plotly
-- **Backend/Data Querying**: AWS Athena (Presto SQL)
-- **Data Source**: Online Retail Dataset (cleaned & stored in AWS S3)
+- **Frontend:** Streamlit, Plotly
+- **Backend / Querying:** AWS Athena (Presto SQL)
+- **Data Source:** Online Retail Dataset (cleaned and stored in AWS S3)
+
+---
 
 ## 🔧 Setup Instructions
-
-### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/oliviaroberta/online-retail-dashboard.git
 cd online-retail-dashboard
-
-🔗 [Live Demo](https://online-retail-dashboard-dspizdjmrhpa9fgmabclnu.streamlit.app/)
-
-
