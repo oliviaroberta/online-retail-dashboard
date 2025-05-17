@@ -19,5 +19,6 @@ An interactive data analytics dashboard built using **Streamlit**, powered by **
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/oliviaroberta/online-retail-dashboard.git
+cd online-retail-dashboard
+
