@@ -15,7 +15,7 @@ An interactive analytics dashboard built with **Streamlit** and powered by **AWS
 ## 🧰 Tech Stack
 
 - **Frontend:** Streamlit, Plotly
-- **Backend / Querying:** AWS Athena (Presto SQL)
+- **Backend / Querying:** AWS Athena 
 - **Data Source:** Online Retail Dataset (cleaned and stored in AWS S3)
 
 ---
