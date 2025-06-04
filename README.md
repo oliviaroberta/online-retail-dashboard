@@ -20,8 +20,6 @@ An interactive analytics dashboard built with **Streamlit** and powered by **AWS
 
 ---
 
-## 🔧 Setup Instructions
 
-```bash
-git clone https://github.com/oliviaroberta/online-retail-dashboard.git
-cd online-retail-dashboard
+
+
